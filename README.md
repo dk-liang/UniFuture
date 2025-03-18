@@ -53,9 +53,13 @@ We present UniFuture, a simple yet effective driving world model that seamlessly
 
 <div  align="center">    
  <img src="./imgs/visualization.png" width = "999"  align=center />
- <center> Example</center> <br>
+ <center> Example 1</center> <br>
 </div>
 
+<div  align="center">    
+ <img src="./imgs/4D_world_model.png" width = "999"  align=center />
+ <center> Example 2</center> <br>
+</div>
 
 For more demos, please refer to our [project page](http://dk-liang.github.io/UniFuture).
 
