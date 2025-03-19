@@ -10,7 +10,7 @@ Xiaofan Li<sup>2</sup>, Yumeng Zhang<sup>2</sup>,  Mingyang Du<sup>1</sup>, Xiao
 
 (\*) Equal contribution. 
 
-[![arXiv](https://img.shields.io/badge/Arxiv--b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/)
+[![arXiv](https://img.shields.io/badge/Arxiv--b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2503.13587)
 [![Project](https://img.shields.io/badge/Homepage-project-orange.svg?logo=googlehome)](https://dk-liang.github.io/UniFuture/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdk-liang%2FUniFuture&count_bg=%23417A15&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
@@ -25,7 +25,7 @@ Check our *awesome* for the latest World Models! [![Awesome World Model](https:/
 ## 📣 News
 
 - **[2025.03.17]** Release the demo. Check it out and give it a star 🌟!
-- **[2025.03.17]** Release the [paper](xxx).
+- **[2025.03.17]** Release the [paper](https://arxiv.org/abs/2503.13587).
 
  <div  align="center">    
  <img src="./imgs/introduction.png" width = "666"  align=center />
@@ -90,7 +90,7 @@ If you find this repository useful in your research, please consider giving a st
 @article{liang2025UniFuture,
   title={Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception},
   author={Liang, Dingkang and Zhang, Dingyuan and Zhou, Xin and Tu, Sifan and Feng, Tianrui and Li, Xiaofan and Zhang, Yumeng and Du, Mingyang and Tan, Xiao and Bai, Xiang},
-  journal={xxxx},
+  journal={arXiv preprint arXiv:2503.13587},
   year={2025}
 }
 ```
