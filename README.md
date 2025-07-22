@@ -11,8 +11,8 @@ Xiaofan Li<sup>2</sup>, Yumeng Zhang<sup>2</sup>,  Mingyang Du<sup>1</sup>, Xiao
 (\*) Equal contribution. 
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2503.13587-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2503.13587)
-[![Project](https://img.shields.io/badge/Homepage-project-orange.svg?logo=googlehome)](https://dk-liang.github.io/UniFuture/)
-[![Huggingface](https://img.shields.io/badge/HERMES-Model-orange?logo=Huggingface)](https://huggingface.co/H-EmbodVis/UniFuture)
+[![Project](https://img.shields.io/badge/Homepage-Project-orange.svg?logo=googlehome)](https://dk-liang.github.io/UniFuture/)
+[![Huggingface](https://img.shields.io/badge/UniFuture-Model-orange?logo=Huggingface)](https://huggingface.co/H-EmbodVis/UniFuture)
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
 
 Check our *awesome* for the latest World Models! [![Awesome World Model](https://img.shields.io/badge/GitHub-awesome_world_model-blue?logo=github)](https://github.com/LMD0311/Awesome-World-Model)
