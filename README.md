@@ -12,7 +12,7 @@ Xiaofan Li<sup>2</sup>, Yumeng Zhang<sup>2</sup>,  Mingyang Du<sup>1</sup>, Xiao
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2503.13587-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2503.13587)
 [![Project](https://img.shields.io/badge/Homepage-project-orange.svg?logo=googlehome)](https://dk-liang.github.io/UniFuture/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdk-liang%2FUniFuture&count_bg=%23417A15&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Huggingface](https://img.shields.io/badge/HERMES-Model-orange?logo=Huggingface)](https://huggingface.co/H-EmbodVis/UniFuture)
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
 
 Check our *awesome* for the latest World Models! [![Awesome World Model](https://img.shields.io/badge/GitHub-awesome_world_model-blue?logo=github)](https://github.com/LMD0311/Awesome-World-Model)
@@ -24,6 +24,7 @@ Check our *awesome* for the latest World Models! [![Awesome World Model](https:/
 
 ## 📣 News
 
+- **[2025.07.22]** Release the training, inference, and evaluation code.
 - **[2025.03.17]** Release the demo. Check it out and give it a star 🌟!
 - **[2025.03.17]** Release the [paper](https://arxiv.org/abs/2503.13587).
 
@@ -72,16 +73,24 @@ For more demos, please refer to our [project page](http://dk-liang.github.io/Uni
 
 ## Getting Started
 
-Coming soon. 
+We provide detailed guides to help you quickly set up, train, and evaluate UniFuture:
+
+- **[Preparation](docs/Preparation.md):** Prepare code, environment, data and pretrained models for UniFuture
+- **[Training](docs/Training.md):** Train UniFuture on the nuScenes dataset.
+- **[Evaluation](docs/Evaluation.md):** Obtain inference results and calculate metrics.
+
+Please follow these guides for a smooth experience.
+
+
 
 ## To Do
 
 - [x] Release demo.
-- [ ] Release checkpoints.
-- [ ] Release training code.
+- [x] Release checkpoints.
+- [x] Release training code.
 
 ## Acknowledgment
-Thanks for the wonderful works: Vista ([paper](https://arxiv.org/abs/2405.17398), [code](https://github.com/OpenDriveLab/Vista)) and Depth Anything ([paper](https://arxiv.org/abs/2401.10891), [code](https://github.com/LiheYoung/Depth-Anything)).
+Thanks for the wonderful works: Vista ([paper](https://arxiv.org/abs/2405.17398), [code](https://github.com/OpenDriveLab/Vista)) and Depth Anything V2 ([paper](https://arxiv.org/abs/2406.09414), [code](https://github.com/DepthAnything/Depth-Anything-V2)).
 
 ## Citation
 

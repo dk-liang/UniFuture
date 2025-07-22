@@ -1,0 +1,11 @@
+metric: fvd
+paired_dataset:
+  root: ./sample_outputs/
+  freq: 12
+  max_frameid: 25
+  gen_startid: 1
+gpu: 0
+batch_size: 32
+n_runs: 1
+shuffle: True
+freq: 12

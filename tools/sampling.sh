@@ -1,0 +1,10 @@
+mkdir sample_logs
+
+CUDA_VISIBLE_DEVICES=0 python tools/sample.py --version unifuture --fvd_dist --fid_dist --save_depth --height 320 --width 576 --rand_gen --sample_index=0 --num_samples=750 --save ./outputs > ./sample_logs/inference_cuda_0.log &
+CUDA_VISIBLE_DEVICES=1 python tools/sample.py --version unifuture --fvd_dist --fid_dist --save_depth --height 320 --width 576 --rand_gen --sample_index=750 --num_samples=750 --save ./outputs > ./sample_logs/inference_cuda_1.log &
+CUDA_VISIBLE_DEVICES=2 python tools/sample.py --version unifuture --fvd_dist --fid_dist --save_depth --height 320 --width 576 --rand_gen --sample_index=1500 --num_samples=750 --save ./outputs > ./sample_logs/inference_cuda_2.log &
+CUDA_VISIBLE_DEVICES=3 python tools/sample.py --version unifuture --fvd_dist --fid_dist --save_depth --height 320 --width 576 --rand_gen --sample_index=2250 --num_samples=750 --save ./outputs > ./sample_logs/inference_cuda_3.log &
+CUDA_VISIBLE_DEVICES=4 python tools/sample.py --version unifuture --fvd_dist --fid_dist --save_depth --height 320 --width 576 --rand_gen --sample_index=3000 --num_samples=750 --save ./outputs > ./sample_logs/inference_cuda_4.log &
+CUDA_VISIBLE_DEVICES=5 python tools/sample.py --version unifuture --fvd_dist --fid_dist --save_depth --height 320 --width 576 --rand_gen --sample_index=3750 --num_samples=750 --save ./outputs > ./sample_logs/inference_cuda_5.log &
+CUDA_VISIBLE_DEVICES=6 python tools/sample.py --version unifuture --fvd_dist --fid_dist --save_depth --height 320 --width 576 --rand_gen --sample_index=4500 --num_samples=750 --save ./outputs > ./sample_logs/inference_cuda_6.log &
+CUDA_VISIBLE_DEVICES=7 python tools/sample.py --version unifuture --fvd_dist --fid_dist --save_depth --height 320 --width 576 --rand_gen --sample_index=5250 --num_samples=750 --save ./outputs > ./sample_logs/inference_cuda_7.log &
