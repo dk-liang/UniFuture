@@ -168,7 +168,7 @@ logs/
 */.DS_Store
 
 
-data/
+Unifuture/data/
 ckpts/
 annos/
 depth_debug_vis/
