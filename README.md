@@ -3,12 +3,10 @@
 <h3>Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception</h3>
 
 
-[Dingkang Liang](https://dk-liang.github.io/)<sup>1\*</sup>, [Dingyuan Zhang](https://scholar.google.com/citations?user=H_nRYBQAAAAJ&hl=en)<sup>1\*</sup>, [Xin Zhou](https://lmd0311.github.io/)<sup>1\*</sup>,  Sifan Tu<sup>1</sup>, Tianrui Feng<sup>1</sup>,   
+[Dingkang Liang](https://dk-liang.github.io/)<sup>1</sup>, [Dingyuan Zhang](https://scholar.google.com/citations?user=H_nRYBQAAAAJ&hl=en)<sup>1</sup>, [Xin Zhou](https://lmd0311.github.io/)<sup>1</sup>,  Sifan Tu<sup>1</sup>, Tianrui Feng<sup>1</sup>,   
 Xiaofan Li<sup>2</sup>, Yumeng Zhang<sup>2</sup>,  Mingyang Du<sup>1</sup>, Xiao Tan<sup>2</sup>, [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en)<sup>1</sup>
 
-<sup>1</sup>  Huazhong University of Science & Technology, <sup>2</sup>  Baidu  
-
-(\*) Equal contribution. 
+<sup>1</sup>  Huazhong University of Science & Technology, <sup>2</sup>  Baidu 
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2503.13587-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2503.13587)
 [![Project](https://img.shields.io/badge/Homepage-Project-orange.svg?logo=googlehome)](https://dk-liang.github.io/UniFuture/)
@@ -24,9 +22,10 @@ Check our *awesome* for the latest World Models! [![Awesome World Model](https:/
 
 ## 📣 News
 
-- **[2025.07.22]** Release the training, inference, and evaluation code.
-- **[2025.03.17]** Release the demo. Check it out and give it a star 🌟!
-- **[2025.03.17]** Release the [paper](https://arxiv.org/abs/2503.13587).
+- **[2026.01]** UniFuture is accepted by ICRA 2026!
+- **[2025.07]** Release the training, inference, and evaluation code.
+- **[2025.03]** Release the demo. Check it out and give it a star 🌟!
+- **[2025.03]** Release the [paper](https://arxiv.org/abs/2503.13587).
 
  <div  align="center">    
  <img src="./imgs/introduction.png" width = "666"  align=center />
@@ -96,10 +95,10 @@ Thanks for the wonderful works: Vista ([paper](https://arxiv.org/abs/2405.17398)
 
 If you find this repository useful in your research, please consider giving a star ⭐ and a citation.
 ```bibtex
-@article{liang2025UniFuture,
+@inproceedings{liang2026UniFuture,
   title={Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception},
   author={Liang, Dingkang and Zhang, Dingyuan and Zhou, Xin and Tu, Sifan and Feng, Tianrui and Li, Xiaofan and Zhang, Yumeng and Du, Mingyang and Tan, Xiao and Bai, Xiang},
-  journal={arXiv preprint arXiv:2503.13587},
-  year={2025}
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2026}
 }
 ```
