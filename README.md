@@ -1,9 +1,9 @@
 
 <div align="center">
-<h3>Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception</h3>
+<h3>UniFuture: A 4D Driving World Model for Future Generation and Perception</h3>
 
 
-[Dingkang Liang](https://dk-liang.github.io/)<sup>1</sup>, [Dingyuan Zhang](https://scholar.google.com/citations?user=H_nRYBQAAAAJ&hl=en)<sup>1</sup>, [Xin Zhou](https://lmd0311.github.io/)<sup>1</sup>,  Sifan Tu<sup>1</sup>, Tianrui Feng<sup>1</sup>,   
+[Dingkang Liang](https://dk-liang.github.io/)<sup>1</sup>, Dingyuan Zhang<sup>1</sup>, Xin Zhou<sup>1</sup>,  Sifan Tu<sup>1</sup>, Tianrui Feng<sup>1</sup>,   
 Xiaofan Li<sup>2</sup>, Yumeng Zhang<sup>2</sup>,  Mingyang Du<sup>1</sup>, Xiao Tan<sup>2</sup>, [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en)<sup>1</sup>
 
 <sup>1</sup>  Huazhong University of Science & Technology, <sup>2</sup>  Baidu 
@@ -96,9 +96,9 @@ Thanks for the wonderful works: Vista ([paper](https://arxiv.org/abs/2405.17398)
 If you find this repository useful in your research, please consider giving a star ⭐ and a citation.
 ```bibtex
 @inproceedings{liang2026UniFuture,
-  title={Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception},
+  title={UniFuture: A 4D Driving World Model for Future Generation and Perception},
   author={Liang, Dingkang and Zhang, Dingyuan and Zhou, Xin and Tu, Sifan and Feng, Tianrui and Li, Xiaofan and Zhang, Yumeng and Du, Mingyang and Tan, Xiao and Bai, Xiang},
-  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  booktitle={IEEE International Conference on Robotics and Automation},
   year={2026}
 }
 ```
